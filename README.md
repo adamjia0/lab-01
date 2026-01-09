@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Yifan Jiao>`
-- **CCID:** `<yjiao8>`
+- **Full Name:** Yifan Jiao
+- **CCID:** yjiao8
 
 ## References and Resources
 
